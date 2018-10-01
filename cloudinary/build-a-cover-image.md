@@ -1,5 +1,5 @@
 ---
-description: By Dan Zeitman and Miki Shiran
+description: By Dan Zeitman and Tamas Piros
 ---
 
 # Build a Cover Image
