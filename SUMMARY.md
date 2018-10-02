@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Hackference 2018 Hackathon Guide](README.md)
+* [Challenge and Prizes](challenge-and-prizes.md)
 
 ## Cloudinary
 
