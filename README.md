@@ -4,7 +4,7 @@
 
 The conference will take place at [The Studio on Cannon Street](https://www.google.com/maps?ll=52.479815,-1.897966&z=16&t=m&hl=en-GB&gl=GB&mapclient=embed&cid=16958121224464613104): unfortunately no parking is available on site but [there are many car parks available nearby](https://en.parkopedia.com/parking/locations/cannon_street_birmingham_birmingham_b2_4lp_united_kingdom_gcqdsc9uyhj/?arriving=201810120900&leaving=201810121800)
 
-The **location** of the **Hackathon** is ****[Impact Hub Birmingham](https://www.google.com/maps?ll=52.477077,-1.887637&z=16&t=m&hl=en-GB&gl=GB&mapclient=embed&cid=4392873597782678887).
+The **location** of the **Hackathon** is **[Impact Hub Birmingham](https://www.google.com/maps?ll=52.477077,-1.887637&z=16&t=m&hl=en-GB&gl=GB&mapclient=embed&cid=4392873597782678887)**.
 
 ## Steps to Success {#steps-to-success}
 
